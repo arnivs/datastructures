@@ -1,2 +1,2 @@
 # Data Structures
-Data Structures in python 3.x
+Data Structures in python. Working with python 3.8.
